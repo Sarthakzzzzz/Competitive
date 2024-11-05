@@ -1,0 +1,5 @@
+D:/Competitive/codeforces/div 2/round 983/cmake-build-debug/CMakeFiles/a.dir
+D:/Competitive/codeforces/div 2/round 983/cmake-build-debug/CMakeFiles/b.dir
+D:/Competitive/codeforces/div 2/round 983/cmake-build-debug/CMakeFiles/c.dir
+D:/Competitive/codeforces/div 2/round 983/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Competitive/codeforces/div 2/round 983/cmake-build-debug/CMakeFiles/rebuild_cache.dir

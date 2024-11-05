@@ -1,0 +1,8 @@
+D:/Competitive/atc/contest 378/cmake-build-debug/CMakeFiles/a.dir
+D:/Competitive/atc/contest 378/cmake-build-debug/CMakeFiles/b.dir
+D:/Competitive/atc/contest 378/cmake-build-debug/CMakeFiles/c.dir
+D:/Competitive/atc/contest 378/cmake-build-debug/CMakeFiles/d.dir
+D:/Competitive/atc/contest 378/cmake-build-debug/CMakeFiles/e.dir
+D:/Competitive/atc/contest 378/cmake-build-debug/CMakeFiles/main.dir
+D:/Competitive/atc/contest 378/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Competitive/atc/contest 378/cmake-build-debug/CMakeFiles/rebuild_cache.dir
